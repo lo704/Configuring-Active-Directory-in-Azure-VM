@@ -14,6 +14,6 @@ This Project outlines the implementation and configuration of Microsoft Active D
 - Windows 10 (21H2)
 - Windows Server (2022)
 
-<h2>Operating Systems</h2>
+<h2>Configuration Setup</h2>
 
-In this project, three VMs will be created in the same Virtual Network(VNet). Two client machines CL-1, CL-2 and a Domain Controller DC-1. The Domain Controller must have a static private IP as it will provide Active Directory Services to all the clients. Using RDP We will have control over the client machines, set the DNS configurations to join the Domain and use DC-1 as the virtual netowrk DNS server.
+In this project, three VMs will be created in the same Virtual Network(VNet). Two client machines CL-1, CL-2 and a Domain Controller DC-1. The Domain Controller must have a static private IP as it will provide Active Directory Services to all the clients. Using RDP We will have control over the client machines, set the DNS configurations to join the Domain and use DC-1 as the virtual network DNS server.
